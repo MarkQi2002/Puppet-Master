@@ -1,4 +1,6 @@
 ## Puppet-Master
+Created collaboratively by Joyce Dai, Mark Qi, Robert Luo, and Richard Zhao for MakeUofT Hackathon.
+Devpost Link: https://devpost.com/software/puppet-master
 
 ### What it does
 It is a device that would help people to move their toes seperately.  
